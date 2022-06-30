@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ambar Mittal and I'm a self-taught programmer.
 - 👀 I’m interested in Coding,  Cricket and playing online Games.
-- 🌱 I’m currently learning Django and have good knowledge of Python, HTML, CSS, JS.
-- 📫 You can contact me on Instagram on my id ambar.mittal_02.
+- 🌱 During my studies, I have developed a keen interest in the various aspects of Web Development .
+- 📫 You can contact me at ambariearjun@gmail.com.
